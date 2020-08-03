@@ -18,7 +18,7 @@ Mini-projet <b>Projet de la mise en chauffe</b> en <b>RUBY</b><br>
 <h6>* Si nous rentrons un entier relatif, le programme doit sortir la fameuse somme des multiples</h6>
 <h6>* Si nous rentrons quelque chose qui n'est pas un entier relatif, le programme doit dire à l'utilisateur de se barrer</h6><br>
 
-# 2- Cryptofolies
+#2- Cryptofolies
 
 <p>Créér une méthode caesar_cipher, dans un programme caesar_cipher.rb qui prend en paramètre un string et le nombre de lettre à décaler, et sort le string modifié.</p><br>
 <b>Exemole: </b><br>

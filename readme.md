@@ -13,7 +13,8 @@ Mini-projet <b>Projet de la mise en chauffe</b> en <b>RUBY</b><br>
 
 <p>Cette projet consiste sur l'utilisation de <b>Gemfile</b> et de <b>rspec</b> en ruby.</p><br>
 <p>Elle contion de 4 programmes principales:</p><br>
-# 1- Multiple de 3 ou 5
+
+#1- Multiple de 3 ou 5
 <p>Si l'on donne 10 en entrée à ce programme, il sortira 23. Si l'on donne 11 en entrée à ce programme, il sortira 3 + 5 + 6 + 9 + 10 = 33. Si l'on donne 0, ou 3 en entrée à ce programme, il sortira 0. Si l'on donne -1, 1.23, ou "chiffre" en entrée à ce programme, il devrait nous dire un truc du genre "yo je ne prends que les entiers naturels TG"</p><br>
 <h6>* Si nous rentrons un entier relatif, le programme doit sortir la fameuse somme des multiples</h6>
 <h6>* Si nous rentrons quelque chose qui n'est pas un entier relatif, le programme doit dire à l'utilisateur de se barrer</h6><br>

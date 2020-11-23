@@ -1,15 +1,3 @@
-Liste des membres de <b>SENSEI groupe 5</b><br>
-<=============================================><br>
-Mini-projet <b>Projet de la mise en chauffe</b> en <b>RUBY</b><br>
-<==============================================><br>
-<p>Developpe par: </p><br>
-
-1- Freddy Harimanana <br>
-2- Lafatra L Ramahefaharimamonjy<br>
-3- Toky Raf<br>
-4- Toiher Omar<br>
-5- Randy rajaonarison<br>
-6- Freddy Michel<br>
 
 <p>Cette projet consiste sur l'utilisation de <b>Gemfile</b> et de <b>rspec</b> en ruby.</p><br>
 <p>Elle contion de 4 programmes principales:</p><br>
@@ -25,6 +13,8 @@ Mini-projet <b>Projet de la mise en chauffe</b> en <b>RUBY</b><br>
 <b>Exemole: </b><br>
 <b> >caesar_cipher("What a string!", 5) => "Bmfy f xywnsl!"</b><br>
 
+
+
 #3- Jean-Michel Trader
 
 <p>Après la cyber-sécurité à la NSA, Lehman Brother veut te débaucher pour faire de la finance. Hyper cool. Ils vont te demander de coder un programme qui permet, à partir d'une array de prix, de connaitre le meilleur jour d'achat, le meilleur jour de revente pour faire le maximum de bénéfices.</p><br>
@@ -39,3 +29,4 @@ Mini-projet <b>Projet de la mise en chauffe</b> en <b>RUBY</b><br>
 - Le corpus, un string dans lequel tu devras checker le nombre d'occurence de différents strings <br>	
 - Le dictionnaire, une array de mots pour qui tu vas compter les occurences dans le corpus <br>
 
+  Ce projet à été réalsé par https://github.com/ny-toky-fitiavana02/
